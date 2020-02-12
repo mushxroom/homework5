@@ -117,7 +117,7 @@ Keyframes for animation*/
 .card > ul li {
   width: 90%;
   margin: 20px auto;
-  font-size: 15pt;
+  /*font-size: 15pt;*/
 }
 
 .card button{
@@ -198,7 +198,7 @@ header{
 
   /* Cards! */
   .card {
-    flex-basis: 225px;
+    flex-basis: 250px;
   }
 
   .card_big{
